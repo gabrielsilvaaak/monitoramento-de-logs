@@ -1,0 +1,3 @@
+2025-11-28 11:45:06,LOGIN_INVALIDO,Tentativa de login falhou para o usuário 'admin'.
+2025-11-28 11:45:06,EXECUCAO_SUSPEITA,Processo desconhecido tentou executar 'malware.exe'.
+2025-11-28 11:45:06,MODIFICACAO_ARQUIVO,Arquivo crítico '/etc/passwd' foi alterado.
